@@ -1,0 +1,133 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "aws-sam-cli@latest": {
+      "last_modified": "2024-04-20T11:41:51-04:00",
+      "resolved": "github:NixOS/nixpkgs/0c97ced70e0b92d46e5e53e239fec5201f8b0811#aws-sam-cli",
+      "source": "devbox-search",
+      "version": "1.115.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9mpbir3bqk29bgfvwpbbc9fpdy1387w2-aws-sam-cli-1.115.0",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/g6dkjd797sq0m220qyg0clrl5i96nmyx-aws-sam-cli-1.115.0-dist"
+            }
+          ],
+          "store_path": "/nix/store/9mpbir3bqk29bgfvwpbbc9fpdy1387w2-aws-sam-cli-1.115.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/rsyqk6r9lhdncsi0wb79v7jad9nhiafy-aws-sam-cli-1.115.0",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/7b26dc2dia83x85xys5nqhiy9y9gfz2k-aws-sam-cli-1.115.0-dist"
+            }
+          ],
+          "store_path": "/nix/store/rsyqk6r9lhdncsi0wb79v7jad9nhiafy-aws-sam-cli-1.115.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/m0gjzvk0bghkqjkdm4jgd33ijvss4cw7-aws-sam-cli-1.115.0",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/l8fywckkpxfh0y88lwkr80zckp48lmvi-aws-sam-cli-1.115.0-dist"
+            }
+          ],
+          "store_path": "/nix/store/m0gjzvk0bghkqjkdm4jgd33ijvss4cw7-aws-sam-cli-1.115.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/55321735bm1vm4fjg086nd8vwfmpbd7k-aws-sam-cli-1.115.0",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/9hlqvqrdf1smblmhf9vn5nviw58pgydb-aws-sam-cli-1.115.0-dist"
+            }
+          ],
+          "store_path": "/nix/store/55321735bm1vm4fjg086nd8vwfmpbd7k-aws-sam-cli-1.115.0"
+        }
+      }
+    },
+    "awscli2@latest": {
+      "last_modified": "2024-04-19T17:36:04-04:00",
+      "resolved": "github:NixOS/nixpkgs/92d295f588631b0db2da509f381b4fb1e74173c5#awscli2",
+      "source": "devbox-search",
+      "version": "2.15.38",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7mpb94xyxc4m0dpmmsb7g1jjn6r27j9n-awscli2-2.15.38",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/drzy79540pad1hw8aqqk8yz8c75alzqy-awscli2-2.15.38-dist"
+            }
+          ],
+          "store_path": "/nix/store/7mpb94xyxc4m0dpmmsb7g1jjn6r27j9n-awscli2-2.15.38"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/lkqw0qjbv3d5136qc55vk91n11xasydj-awscli2-2.15.38",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/6my2ip4x4nnpxlpdzl38hw4xln8msyj4-awscli2-2.15.38-dist"
+            }
+          ],
+          "store_path": "/nix/store/lkqw0qjbv3d5136qc55vk91n11xasydj-awscli2-2.15.38"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7abrr9j7kfihps5wbam5qwhd4xxvqhrz-awscli2-2.15.38",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/fffd119idyjvvwmjhdf0n1lwkqwzflym-awscli2-2.15.38-dist"
+            }
+          ],
+          "store_path": "/nix/store/7abrr9j7kfihps5wbam5qwhd4xxvqhrz-awscli2-2.15.38"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xm88si6rhf8vrnlfxnpabsmlgfxiqa47-awscli2-2.15.38",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/8l7fkf7nxygn55dz139y9gd12x9v2wv7-awscli2-2.15.38-dist"
+            }
+          ],
+          "store_path": "/nix/store/xm88si6rhf8vrnlfxnpabsmlgfxiqa47-awscli2-2.15.38"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/main/.schema/devbox-plugin.schema.json",
+  "name": "my-plugin",
+  "version": "1.0.0",
+  "readme": "Common devbox shell functionality",
+  "packages": [
+    "aws-sam-cli@latest",
+    "awscli2@latest"
+  ]
+}
